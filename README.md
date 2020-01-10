@@ -51,6 +51,7 @@
 
 ![更多](https://images.gitee.com/uploads/images/2019/1225/105704_64c607c2_1831468.jpeg "more.jpeg")
 
+若图片无法正常显示请点击此处：[原型链接](http://nfunm172015119.gitee.io/api_speaking)
 # 三、API应用
 
 ## 1.API调用
